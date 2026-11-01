@@ -1,0 +1,6 @@
+{
+  "name": "Realms of Valdor: Shadow Mark",
+  "description": "High-fantasy dark action RPG featuring visceral real-time combat, Shadow Mark curses, stance mastery, epic boss encounters, deep progression, and the complete 309-entry World Codex of Valdor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
